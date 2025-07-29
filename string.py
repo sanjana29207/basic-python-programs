@@ -6,3 +6,5 @@ kelvin = celsius + 273.15
 printf("fahrenheit:",fahrenheit)
 if celsius > 30:
     print("its hot!")
+else:
+    printf("its cool!")
