@@ -9,3 +9,5 @@ if  celse  > 20:
 else:
     printf("its cool!")
     printf("thank you!");
+else:
+    printf("welcome");
