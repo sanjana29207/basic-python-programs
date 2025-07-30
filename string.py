@@ -8,3 +8,4 @@ if  celse  > 20:
     print("its hot!")
 else:
     printf("its cool!")
+    printf("thank you!");
