@@ -6,7 +6,6 @@ printf("fahrenheit:",fahrenheit)
 if  celsius  > 20:
     print("its hot!")
 else:
-    printf("its cool!")
-    printf("thank you!");
+    printf("its not cool!")
 else:
     printf("welcome");
